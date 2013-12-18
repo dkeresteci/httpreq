@@ -1,0 +1,13 @@
+
+{
+  "name": "Show HTTP Request",
+  "description": "Displays xml request",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["js/main.js"]
+    }
+  },
+  "icons": { "128": "icon.jpg" },
+  "permissions": ["storage", "https://www.facebook.com/*"]
+}
